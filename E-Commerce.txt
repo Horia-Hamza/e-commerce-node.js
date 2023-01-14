@@ -1,0 +1,9 @@
+E-Commerce backend project
+
+About the project
+**crud operation using mongoose,express,bcryptjs,cloudinary,dotenv,jsonwebtoken,multer,nodemailer,joi validation and other modules.
+**to run a fully compeletly project to add product with category and subCategory, its brand , add/remove to wishlist.
+**add/remove to cart using validation, authentecation ,autherization roles to determine who can add category or product and so on... .
+**using validation on from database with backend validation to make the project more safety.
+**using multer and cloudinary to upload files or images with it's ids to update on it and delete it with it's secure_url, public_id.
+**make the app.js file as simple as I can and devided muy code into small and readable folder and files to be easy to update and find errors easily
